@@ -20,23 +20,20 @@
 
 ## 📌 Projetos em Destaque
 - [🎯 Missão Impossível](https://github.com/PedroDelgo/impossible-mission) — Site interativo inspirado no universo de Missão Impossível.  
-- [🏛 Kubo Architecture](https://github.com/Kubo-Architecture/kubo-frontend) — Plataforma colaborativa para obras arquitetônicas.  
-- [📊 Brasildados](https://github.com/) — Visualizador de dados públicos com React + D3.js.  
+- [🏛 Kubo Architecture](https://github.com/Kubo-Architecture/kubo-frontend) — Plataforma colaborativa para obras arquitetônicas.
 
 ---
 
 ## 📚 Experiências
 - **Monitor de React no CEUB** — Coordenei e ministrei curso de HTML, CSS, JavaScript e React para alunos de tecnologia.  
 - **Estágio na Novacap** — Atuação em infraestrutura e virtualização com Proxmox, suporte técnico e automação de tarefas.  
-- **Projetos de Automação** — Scripts para edição de vídeo e preenchimento automático de planilhas.
+- **Projeto Social** — Participação no projeto de inclusão digital para a terceira idade, auxiliando no ensino de informática básica.
 
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20César-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-cesar-delgado-gomes-7255a7294/)
-[![E-mail](https://img.shields.io/badge/Email-pedrocesardelgado%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pedrocesardelgado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20César-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrodelgo/)
+[![E-mail](https://img.shields.io/badge/Email-pedrocesardelgado%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pedrodelg.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroDelgo-black?style=for-the-badge&logo=github)](https://github.com/PedroDelgo)
 
 ---
-
-⭐ _Sempre aberto a novos desafios e colaborações!_
