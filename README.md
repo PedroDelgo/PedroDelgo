@@ -32,6 +32,6 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20César-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrodelgo/)
-[![E-mail](https://img.shields.io/badge/Email-pedrocesardelgado%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pedrodelg.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PedroDelgo-black?style=for-the-badge&logo=github)](https://github.com/PedroDelgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20César-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrodelgo/)<br/>
+[![E-mail](https://img.shields.io/badge/Email-pedrocesardelgado%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pedrodelg.dev@gmail.com)<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-PedroDelgo-black?style=for-the-badge&logo=github)](https://github.com/PedroDelgo)<br/>
